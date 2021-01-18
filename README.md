@@ -1,4 +1,4 @@
-#testing-repository-gh
+# testing-repository-gh
 
 Testowy tekst do ćwiczenia commitów!
-First Branch
+Second branch
